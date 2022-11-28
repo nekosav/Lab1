@@ -6,4 +6,4 @@ for i in range(0,l):
     element = int(input())
     a.append(element)
 
-print("Максимум массива:",max(a))
+print("Максимум массива:",min(a))
